@@ -5,11 +5,11 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - name: 圣何塞
-    server: 104.168.14.83
-    port: 443
+  - name: sss
+    server: 104.134.25.12
+    port: 555
     type: vmess
-    uuid: 8b266d4f-7eab-4779-8efe-23fa4c706d5d
+    uuid: 8b266d4f-7eab-4779-8efe-
     alterId: 0
     cipher: auto
     tls: false
